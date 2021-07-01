@@ -5,14 +5,12 @@ import java.util.Stack;
 
 public class Balanced {
     private final String sequence;
-    private final IInterpreter interp;
 
-    Balanced(IInterpreter interp, String sequence) {
+    Balanced(String sequence) {
         this.sequence = sequence;
-        this.interp = interp;
     }
 
-    public boolean isBalanced() { return test(interp.read(sequence)); }
+    public boolean isBalanced() { return test(Interpreter.read(sequence)); }
 
     private String[] getProperties(Bracket item) {
         return item.toString().split("_");

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        var isBalanced = new Balanced(new Interpreter(), readSequence()).isBalanced();
+        var isBalanced = new Balanced(readSequence()).isBalanced();
         System.out.println(isBalanced ? "It's balanced :)" : "It's not balanced :(");
     }
 
