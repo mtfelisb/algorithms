@@ -1,4 +1,4 @@
-package com.algorithms.searching.quicksort;
+package com.algorithms.sort.bubblesort;
 
 public class Node {
     private final int value;

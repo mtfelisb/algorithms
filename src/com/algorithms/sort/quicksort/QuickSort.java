@@ -1,4 +1,4 @@
-package com.algorithms.searching.quicksort;
+package com.algorithms.sort.quicksort;
 
 import java.util.List;
 

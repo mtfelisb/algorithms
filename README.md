@@ -11,14 +11,14 @@ Depth-first search | ⏳ | ⏳
 Breadth-first search | ⏳ | ⏳
 Kruskal's algorithm | ⏳ | ⏳
 
-## Searching
+## Search
 Algorithm | Java  | Scala
 --------- | :------: | :---------:
 BinarySearch | ✅ | ⏳
 Selection algorithm | ⏳ | ⏳
 Ternary search | ⏳ | ⏳
 
-## Sorting
+## Sort
 
 Algorithm | Java  | Scala
 --------- | :------: | :---------:

@@ -1,4 +1,4 @@
-package com.algorithms.searching.bubblesort;
+package com.algorithms.sort.bubblesort;
 
 import java.util.ArrayList;
 

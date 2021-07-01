@@ -1,4 +1,4 @@
-package com.algorithms.searching.binarysearch;
+package com.algorithms.search.binarysearch;
 
 public class Node {
     private final int value;
